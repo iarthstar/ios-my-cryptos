@@ -1,0 +1,114 @@
+[
+    {
+        "name": "BTC",
+        "quantity": 1.5,
+        "prices": {
+            "usd": 6000,
+            "inr": 660000
+        }
+    },
+    {
+        "name": "ETH",
+        "quantity": 20,
+        "prices": {
+            "usd": 400,
+            "inr": 33000
+        }
+    },
+    {
+        "name": "QASH",
+        "quantity": 1008,
+        "prices": {
+            "usd": 0.02,
+            "inr": 2
+        }
+    },
+    {
+        "name": "NGC",
+        "quantity": 108,
+        "prices": {
+            "usd": 0.005,
+            "inr": 0.5
+        }
+    },
+    {
+        "name": "DIW",
+        "quantity": 52000,
+        "prices": {
+            "usd": 0.00002,
+            "inr": 0.0001
+        }
+    },
+    {
+        "name": "ETH",
+        "quantity": 20,
+        "prices": {
+            "usd": 400,
+            "inr": 33000
+        }
+    },
+    {
+        "name": "ETH",
+        "quantity": 20,
+        "prices": {
+            "usd": 400,
+            "inr": 33000
+        }
+    },
+    {
+        "name": "ETH",
+        "quantity": 20,
+        "prices": {
+            "usd": 400,
+            "inr": 33000
+        }
+    },
+    {
+        "name": "ETH",
+        "quantity": 20,
+        "prices": {
+            "usd": 400,
+            "inr": 33000
+        }
+    },
+    {
+        "name": "ETH",
+        "quantity": 20,
+        "prices": {
+            "usd": 400,
+            "inr": 33000
+        }
+    },
+    {
+        "name": "ETH",
+        "quantity": 20,
+        "prices": {
+            "usd": 400,
+            "inr": 33000
+        }
+    },
+    {
+        "name": "ETH",
+        "quantity": 20,
+        "prices": {
+            "usd": 400,
+            "inr": 33000
+        }
+    },
+    {
+        "name": "ETH",
+        "quantity": 20,
+        "prices": {
+            "usd": 400,
+            "inr": 33000
+        }
+    },
+    {
+        "name": "ETH",
+        "quantity": 20,
+        "prices": {
+            "usd": 400,
+            "inr": 33000
+        }
+    }
+]
